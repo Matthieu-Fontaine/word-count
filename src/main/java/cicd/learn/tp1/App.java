@@ -10,5 +10,6 @@ public class App
     {
         // fix du bug
         System.out.println( "CI/CD rocks!" );
+        // Salut je modifie le code
     }
 }
